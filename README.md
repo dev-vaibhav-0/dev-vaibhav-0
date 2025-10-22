@@ -1,4 +1,4 @@
-## Contributions
+## 🌱Contributions:
 ![snake gif](https://github.com/dev-vaibhav-0/dev-vaibhav-0/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
