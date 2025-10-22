@@ -1,3 +1,5 @@
+## Contributions
+![snake gif](https://github.com/dev-vaibhav-0/dev-vaibhav-0/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asdfghbvqqqq@gmail.com) 
